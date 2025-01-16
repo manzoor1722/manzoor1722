@@ -1,4 +1,19 @@
-## Hi, I'm Manzoor Hussain 👋
+<div align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=3cb371&background=333333&center=true&vCenter=true&width=600&height=50&lines=Passionate+Python+Developer;Django+Developer;Backend+Engineer;Open+Source+Contributor;" alt="Typing SVG">
+    </a>
+</div>
+
+<h1 align="center"> Hi, I'm Manzoor Hussain 👋 </h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=manzoor1722&color=brightgreen&style=flat-square" alt="Profile Views">
+</p>
+
+---
+
+## 🚀 About Me
+
 <h1 align="center" style="color: #2d89ef; font-family: Arial, sans-serif;">💻 Expert Python Developer | Django Specialist</h1>
 
 <p align="center" style="font-size: 1.2em; color: #555;">  
